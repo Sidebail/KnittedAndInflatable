@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "2.2.1p1",
+	"FriendlyName": "Scene Fusion",
+	"Description": "KinematicSoup Scene Fusion Plugin",
+	"Category": "KinematicSoup",
+	"CreatedBy": "KinematicSoup Technologies Inc.",
+	"CreatedByURL": "https://www.kinematicsoup.com/scene-fusion/",
+	"DocsURL": "https://docs.kinematicsoup.com/SceneFusion/unreal/getting_started.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"RequiresBuildPlatform": true,
+	"Modules": [
+		{
+			"Name": "SceneFusion",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
