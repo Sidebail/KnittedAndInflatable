@@ -13,6 +13,8 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.dll
+*.pdb
 
 # Allow Plugins:
 !Plugins/*/Binaries
