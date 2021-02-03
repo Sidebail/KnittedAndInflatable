@@ -13,3 +13,7 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+*LVL1_Suburban_BuiltData.uasset
+*MENU_BuiltData.uasset
+*ThirdPersonExampleMap.umap
