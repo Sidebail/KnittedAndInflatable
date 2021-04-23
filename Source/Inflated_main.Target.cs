@@ -9,7 +9,7 @@ public class Inflated_mainTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-
+		bUsesSteam = true;
 		ExtraModuleNames.AddRange( new string[] { "Inflated_main" } );
 	}
 }
