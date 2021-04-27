@@ -9,7 +9,7 @@ public class Inflated_mainEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-
+		bUsesSteam = true;
 		ExtraModuleNames.AddRange( new string[] { "Inflated_main" } );
 	}
 }
