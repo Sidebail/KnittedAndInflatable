@@ -25,12 +25,13 @@ Build/*
 *.suo
 *.xcodeproj
 *.xcworkspace
-#Content/Maps/ThirdPersonExampleMap_BuiltData.uasset
-#Content/Maps/MENU_BuiltData.uasset
-#*LVL1_Suburban_BuiltData.uasset
 
 # Built data for maps
 *_BuiltData.uasset
+Content/Maps/LVL1_Suburban_BuiltData.uasset
+*LVL1_Suburban_BuiltData.uasset
+LVL1_Suburban_BuiltData.uasset
+
 
 AdvancedPuzzleConstructor
 *.idea*
